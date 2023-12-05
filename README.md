@@ -2,6 +2,8 @@
 
 <h2> Hey there! I'm Joel.</h2>
 
+<h2> A Frontend developer </h2>
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -34,11 +36,11 @@
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![canva](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-canva)
+  ![canva](https://img.shields.io/badge/Canva-blue)
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Joel0007tech">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joel0007tech&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel0007tech&theme=buefy&layout=compact" />
 </a>
@@ -50,7 +52,7 @@
 <p align="center">
 <a href="https://joel-folio.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/www.joel-folio.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/joelajiola/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Joel-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+ <a href="https://twitter.com/jotechy" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a> 
 <a href="mailto:ajiolajoel@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ajiolajoel@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 

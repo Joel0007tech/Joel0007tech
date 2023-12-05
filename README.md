@@ -1,4 +1,4 @@
-<img src="[https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRVJb97wGQGMZNGEv_zHllhqAIIru-LR0bgw&usqp=CAU)">
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png"/>
 
 <h2> Hey there! I'm Joel.</h2>
 

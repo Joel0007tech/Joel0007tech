@@ -52,7 +52,7 @@
 <p align="center">
 <a href="https://joel-folio.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/www.joel-folio.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/joelajiola/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Joel-blue?style=flat-square&logo=linkedin"></a>
- <a href="https://twitter.com/jotechy" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a> 
+<!--  <a href="https://twitter.com/jotechy" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>  -->
 <a href="mailto:ajiolajoel@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ajiolajoel@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 

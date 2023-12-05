@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png"/>
+<img src="https://thekloudco.com/wp-content/uploads/2020/03/Frontend-Development-Service-1.png" />
 
 <h2> Hey there! I'm Joel.</h2>
 
